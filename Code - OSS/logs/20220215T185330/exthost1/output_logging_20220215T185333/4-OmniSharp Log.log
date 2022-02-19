@@ -1,0 +1,64 @@
+Starting OmniSharp server at 2/15/2022, 6:53:33 PM
+    Target: /home/btr/UnityProjects/MobileDemoGame (1)/MobileDemoGame (1).sln
+
+OmniSharp server started with Mono 6.12.0.
+    Path: /home/btr/.vscode-oss/extensions/muhammad-sammy.csharp-1.24.0/.omnisharp/1.38.0/omnisharp/OmniSharp.exe
+    PID: 271830
+
+[info]: OmniSharp.Stdio.Host
+        Starting OmniSharp on arch 0.0 (x64)
+[info]: OmniSharp.Services.DotNetCliService
+        Checking the 'DOTNET_ROOT' environment variable to find a .NET SDK
+[info]: OmniSharp.Services.DotNetCliService
+        Using the 'dotnet' on the PATH.
+[info]: OmniSharp.Services.DotNetCliService
+        DotNetPath set to dotnet
+[warn]: OmniSharp.MSBuild.Discovery.Providers.MonoInstanceProvider
+        It looks like you have Mono 6.4.0 or greater installed but MSBuild could not be found.
+Try installing MSBuild into Mono (e.g. 'sudo apt-get install msbuild') to enable better MSBuild support, or upgrade to latest Mono: https://www.mono-project.com/download/stable/.
+[info]: OmniSharp.MSBuild.Discovery.MSBuildLocator
+        Located 1 MSBuild instance(s)
+            1: StandAlone 17.0.0 - "/home/btr/.vscode-oss/extensions/muhammad-sammy.csharp-1.24.0/.omnisharp/1.38.0/omnisharp/.msbuild/Current/Bin"
+[info]: OmniSharp.MSBuild.Discovery.MSBuildLocator
+        MSBUILD_EXE_PATH environment variable set to '/home/btr/.vscode-oss/extensions/muhammad-sammy.csharp-1.24.0/.omnisharp/1.38.0/omnisharp/.msbuild/Current/Bin/MSBuild.exe'
+[info]: OmniSharp.MSBuild.Discovery.MSBuildLocator
+        Registered MSBuild instance: StandAlone 17.0.0 - "/home/btr/.vscode-oss/extensions/muhammad-sammy.csharp-1.24.0/.omnisharp/1.38.0/omnisharp/.msbuild/Current/Bin"
+            CscToolExe = csc.exe
+            MSBuildToolsPath = /home/btr/.vscode-oss/extensions/muhammad-sammy.csharp-1.24.0/.omnisharp/1.38.0/omnisharp/.msbuild/Current/Bin
+            CscToolPath = /home/btr/.vscode-oss/extensions/muhammad-sammy.csharp-1.24.0/.omnisharp/1.38.0/omnisharp/.msbuild/Current/Bin/Roslyn
+            BypassFrameworkInstallChecks = true
+            MSBuildExtensionsPath = /home/btr/.vscode-oss/extensions/muhammad-sammy.csharp-1.24.0/.omnisharp/1.38.0/omnisharp/.msbuild
+[info]: OmniSharp.WorkspaceInitializer
+        Invoking Workspace Options Provider: OmniSharp.Roslyn.CSharp.Services.CSharpFormattingWorkspaceOptionsProvider, Order: 0
+[info]: OmniSharp.WorkspaceInitializer
+        Invoking Workspace Options Provider: OmniSharp.Roslyn.CSharp.Services.Completion.CompletionOptionsProvider, Order: 0
+[info]: OmniSharp.WorkspaceInitializer
+        Invoking Workspace Options Provider: OmniSharp.Roslyn.CSharp.Services.RenameWorkspaceOptionsProvider, Order: 100
+[info]: OmniSharp.WorkspaceInitializer
+        Invoking Workspace Options Provider: OmniSharp.Roslyn.CSharp.Services.ImplementTypeWorkspaceOptionsProvider, Order: 110
+[info]: OmniSharp.WorkspaceInitializer
+        Invoking Workspace Options Provider: OmniSharp.Roslyn.CSharp.Services.BlockStructureWorkspaceOptionsProvider, Order: 140
+[info]: OmniSharp.Cake.CakeProjectSystem
+        Detecting Cake files in '/home/btr/UnityProjects/MobileDemoGame (1)'.
+[info]: OmniSharp.Cake.CakeProjectSystem
+        Did not find any Cake files
+[info]: OmniSharp.MSBuild.ProjectSystem
+        Detecting projects in '/home/btr/UnityProjects/MobileDemoGame (1)/MobileDemoGame (1).sln'.
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileDemoGame (1)/Assembly-CSharp.csproj'
+[info]: OmniSharp.Script.ScriptProjectSystem
+        Detecting CSX files in '/home/btr/UnityProjects/MobileDemoGame (1)'.
+[info]: OmniSharp.Script.ScriptProjectSystem
+        Did not find any CSX files
+[info]: OmniSharp.WorkspaceInitializer
+        Configuration finished.
+[info]: OmniSharp.Stdio.Host
+        Omnisharp server running using Stdio at location '/home/btr/UnityProjects/MobileDemoGame (1)' on host 271693.
+[info]: OmniSharp.MSBuild.ProjectManager
+        Loading project: /home/btr/UnityProjects/MobileDemoGame (1)/Assembly-CSharp.csproj
+[info]: OmniSharp.MSBuild.ProjectManager
+        Successfully loaded project file '/home/btr/UnityProjects/MobileDemoGame (1)/Assembly-CSharp.csproj'.
+[info]: OmniSharp.MSBuild.ProjectManager
+        Adding project '/home/btr/UnityProjects/MobileDemoGame (1)/Assembly-CSharp.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Update project: Assembly-CSharp

@@ -1,0 +1,146 @@
+Starting OmniSharp server at 2/16/2022, 7:59:02 PM
+    Target: /home/btr/UnityProjects/MobileProj1/MobileProj1.sln
+
+OmniSharp server started with Mono 6.12.0.
+    Path: /home/btr/.vscode-oss/extensions/muhammad-sammy.csharp-1.24.0/.omnisharp/1.38.0/omnisharp/OmniSharp.exe
+    PID: 320073
+
+[info]: OmniSharp.Stdio.Host
+        Starting OmniSharp on arch 0.0 (x64)
+[info]: OmniSharp.Services.DotNetCliService
+        Checking the 'DOTNET_ROOT' environment variable to find a .NET SDK
+[info]: OmniSharp.Services.DotNetCliService
+        Using the 'dotnet' on the PATH.
+[info]: OmniSharp.Services.DotNetCliService
+        DotNetPath set to dotnet
+[warn]: OmniSharp.MSBuild.Discovery.Providers.MonoInstanceProvider
+        It looks like you have Mono 6.4.0 or greater installed but MSBuild could not be found.
+Try installing MSBuild into Mono (e.g. 'sudo apt-get install msbuild') to enable better MSBuild support, or upgrade to latest Mono: https://www.mono-project.com/download/stable/.
+[info]: OmniSharp.MSBuild.Discovery.MSBuildLocator
+        Located 1 MSBuild instance(s)
+            1: StandAlone 17.0.0 - "/home/btr/.vscode-oss/extensions/muhammad-sammy.csharp-1.24.0/.omnisharp/1.38.0/omnisharp/.msbuild/Current/Bin"
+[info]: OmniSharp.MSBuild.Discovery.MSBuildLocator
+        MSBUILD_EXE_PATH environment variable set to '/home/btr/.vscode-oss/extensions/muhammad-sammy.csharp-1.24.0/.omnisharp/1.38.0/omnisharp/.msbuild/Current/Bin/MSBuild.exe'
+[info]: OmniSharp.MSBuild.Discovery.MSBuildLocator
+        Registered MSBuild instance: StandAlone 17.0.0 - "/home/btr/.vscode-oss/extensions/muhammad-sammy.csharp-1.24.0/.omnisharp/1.38.0/omnisharp/.msbuild/Current/Bin"
+            CscToolExe = csc.exe
+            MSBuildToolsPath = /home/btr/.vscode-oss/extensions/muhammad-sammy.csharp-1.24.0/.omnisharp/1.38.0/omnisharp/.msbuild/Current/Bin
+            CscToolPath = /home/btr/.vscode-oss/extensions/muhammad-sammy.csharp-1.24.0/.omnisharp/1.38.0/omnisharp/.msbuild/Current/Bin/Roslyn
+            BypassFrameworkInstallChecks = true
+            MSBuildExtensionsPath = /home/btr/.vscode-oss/extensions/muhammad-sammy.csharp-1.24.0/.omnisharp/1.38.0/omnisharp/.msbuild
+[info]: OmniSharp.WorkspaceInitializer
+        Invoking Workspace Options Provider: OmniSharp.Roslyn.CSharp.Services.CSharpFormattingWorkspaceOptionsProvider, Order: 0
+[info]: OmniSharp.WorkspaceInitializer
+        Invoking Workspace Options Provider: OmniSharp.Roslyn.CSharp.Services.Completion.CompletionOptionsProvider, Order: 0
+[info]: OmniSharp.WorkspaceInitializer
+        Invoking Workspace Options Provider: OmniSharp.Roslyn.CSharp.Services.RenameWorkspaceOptionsProvider, Order: 100
+[info]: OmniSharp.WorkspaceInitializer
+        Invoking Workspace Options Provider: OmniSharp.Roslyn.CSharp.Services.ImplementTypeWorkspaceOptionsProvider, Order: 110
+[info]: OmniSharp.WorkspaceInitializer
+        Invoking Workspace Options Provider: OmniSharp.Roslyn.CSharp.Services.BlockStructureWorkspaceOptionsProvider, Order: 140
+[info]: OmniSharp.Cake.CakeProjectSystem
+        Detecting Cake files in '/home/btr/UnityProjects/MobileProj1'.
+[info]: OmniSharp.Cake.CakeProjectSystem
+        Did not find any Cake files
+[info]: OmniSharp.MSBuild.ProjectSystem
+        Detecting projects in '/home/btr/UnityProjects/MobileProj1/MobileProj1.sln'.
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/UnityEngine.UI.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.RenderPipelines.Core.Runtime.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/UnityEngine.TestRunner.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.VisualScripting.Flow.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.Mathematics.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Assembly-CSharp.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.VisualScripting.State.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.VisualScripting.Core.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.RenderPipelines.Universal.Runtime.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.Burst.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.TextMeshPro.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Cinemachine.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.Timeline.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.RenderPipeline.Universal.ShaderLibrary.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.RenderPipelines.Core.ShaderLibrary.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.RenderPipelines.Universal.Shaders.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.PlasticSCM.Editor.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.VisualScripting.Core.Editor.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.VisualScripting.Flow.Editor.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.ShaderGraph.Editor.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.VisualStudio.Editor.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.Timeline.Editor.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.RenderPipelines.Universal.Editor.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/com.unity.cinemachine.editor.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.VisualScripting.State.Editor.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.TextMeshPro.Editor.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.RenderPipelines.Core.Editor.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.VisualScripting.SettingsProvider.Editor.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.CollabProxy.Editor.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/UnityEditor.TestRunner.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.Rider.Editor.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.Services.Core.Editor.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.Searcher.Editor.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.SysrootPackage.Editor.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.Burst.CodeGen.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.VSCode.Editor.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/UnityEditor.UI.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/PPv2URPConverters.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.Mathematics.Editor.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.Burst.Editor.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.ShaderGraph.Utilities.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.Sysroot.Linux_x86_64.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.VisualScripting.Shared.Editor.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/btr/UnityProjects/MobileProj1/Unity.Toolchain.Linux-x86_64.csproj'
+[info]: OmniSharp.Script.ScriptProjectSystem
+        Detecting CSX files in '/home/btr/UnityProjects/MobileProj1'.
+[info]: OmniSharp.Script.ScriptProjectSystem
+        Did not find any CSX files
+[info]: OmniSharp.WorkspaceInitializer
+        Configuration finished.
+[info]: OmniSharp.Stdio.Host
+        Omnisharp server running using Stdio at location '/home/btr/UnityProjects/MobileProj1' on host 319945.
+[info]: OmniSharp.MSBuild.ProjectManager
+        Loading project: /home/btr/UnityProjects/MobileProj1/UnityEngine.UI.csproj

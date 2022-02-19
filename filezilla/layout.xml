@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<FileZilla3 version="3.57.0" platform="*nix">
+	<Layout Builddate="2022-02-03" Buildtime="12:21:16">
+		<Resources>
+			<xrc file="netconfwizard.xrc" date="1643890876" />
+			<xrc file="dialogs.xrc" date="1643890876" />
+		</Resources>
+		<Language id="en_US" date="">
+			<Font font="Cantarell 11" width="834" height="19" />
+		</Language>
+	</Layout>
+</FileZilla3>

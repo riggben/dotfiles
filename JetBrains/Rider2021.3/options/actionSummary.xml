@@ -1,0 +1,112 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="1" l="1644719113278" />
+    </e>
+    <e n="$Undo">
+      <i c="19" l="1645066268194" />
+    </e>
+    <e n="ActivateFindToolWindow">
+      <i c="3" l="1645048388673" />
+    </e>
+    <e n="Back">
+      <i c="11" l="1644789306485" />
+    </e>
+    <e n="BuildButton">
+      <i c="2" l="1644715403985" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="2458" l="1645069696478" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="599" l="1645069734511" />
+    </e>
+    <e n="EditorCopy">
+      <i c="20" l="1645069702995" />
+    </e>
+    <e n="EditorCut">
+      <i c="22" l="1645064111626" />
+    </e>
+    <e n="EditorDelete">
+      <i c="3" l="1644811788341" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="1" l="1644717876911" />
+    </e>
+    <e n="EditorDown">
+      <i c="315" l="1645069102886" />
+    </e>
+    <e n="EditorEnter">
+      <i c="701" l="1645069727748" />
+    </e>
+    <e n="EditorLeft">
+      <i c="218" l="1645069686251" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="1" l="1644895311787" />
+    </e>
+    <e n="EditorPageUp">
+      <i c="1" l="1644812344962" />
+    </e>
+    <e n="EditorPaste">
+      <i c="48" l="1645069703910" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="1" l="1644895350201" />
+    </e>
+    <e n="EditorRight">
+      <i c="452" l="1645069690643" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="1" l="1644717875854" />
+    </e>
+    <e n="EditorTab">
+      <i c="50" l="1645068954637" />
+    </e>
+    <e n="EditorUp">
+      <i c="228" l="1645069019246" />
+    </e>
+    <e n="Forward">
+      <i c="3" l="1644789310316" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="2" l="1644896372667" />
+    </e>
+    <e n="NextTemplateVariable">
+      <i c="1" l="1644716799895" />
+    </e>
+    <e n="RenameElement">
+      <i c="4" l="1644719719850" />
+    </e>
+    <e n="SaveDocument">
+      <i c="217" l="1645070179212" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="1" l="1644879869981" />
+    </e>
+    <e n="TabList">
+      <i c="5" l="1644895127328" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="1" l="1644736880522" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1644722895790" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="55" l="1645063196615" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="3" l="1645048391416" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="3" l="1644875538304" />
+    </e>
+    <e n="com.jetbrains.rider.hyperlinks.ToggleLineBreakpointPlaceholderAction">
+      <i c="3" l="1644875534297" />
+    </e>
+    <e n="com.jetbrains.rider.hyperlinks.ToggleLineDisabledBreakpointAction">
+      <i c="1" l="1644875527255" />
+    </e>
+  </component>
+</application>

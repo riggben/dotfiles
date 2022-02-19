@@ -1,0 +1,35 @@
+2022-01-28T03:26:24.191Z - info: [ui] [AppStore] loading 0 repositories from store
+2022-01-28T03:26:24.205Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-01-28T03:26:24.239Z - info: [ui] launching: 2.9.6-linux1 (Linux 5.16.2-arch1-1)
+2022-01-28T03:26:24.239Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2022-01-28T03:26:24.252Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-01-28T03:26:24.325Z - info: [ui] Opt in reported.
+2022-01-28T03:26:24.329Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-01-28T03:26:26.287Z - info: [ui] [Welcome] advancing to step: SignInToDotComWithBrowser
+2022-01-28T03:26:26.289Z - info: [ui] [SignInStore] initializing OAuth flow
+2022-01-28T03:26:26.292Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=9024a0be-bbcf-411a-83e0-34a76c1a92cf
+2022-01-28T03:26:26.292Z - info: [ui] [Welcome] current sign in state not found. ignoring...
+2022-01-28T03:26:26.466Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2022-01-28T03:27:26.948Z - info: [main] Received possible protocol arguments: 2
+2022-01-28T03:27:26.948Z - info: [main] Processing protocol url
+2022-01-28T03:27:26.956Z - info: [ui] [Dispatcher] requesting authenticated user
+2022-01-28T03:27:26.967Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2022-01-28T03:27:28.402Z - info: [ui] [SignInStore] account resolved
+2022-01-28T03:27:28.402Z - info: [ui] [AppStore] adding account riggben (riggben) to store
+2022-01-28T03:27:28.413Z - info: [ui] [Welcome] advancing to step: ConfigureGit
+2022-01-28T03:27:28.447Z - error: [ui] Error adding account 'riggben'
+Error: Object does not exist at path “/org/freedesktop/secrets/collection/login”
+2022-01-28T03:27:28.451Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-01-28T03:28:02.182Z - info: [ui] [SignInStore] initializing OAuth flow
+2022-01-28T03:28:02.185Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=28140d2a-cc98-48cf-a88d-bedcf5f206e6
+2022-01-28T03:28:06.764Z - info: [main] Received possible protocol arguments: 2
+2022-01-28T03:28:06.764Z - info: [main] Processing protocol url
+2022-01-28T03:28:06.767Z - info: [ui] [Dispatcher] requesting authenticated user
+2022-01-28T03:28:07.157Z - info: [ui] [SignInStore] account resolved
+2022-01-28T03:28:07.157Z - info: [ui] [AppStore] adding account riggben (riggben) to store
+2022-01-28T03:28:07.183Z - error: [ui] Error adding account 'riggben'
+Error: Object does not exist at path “/org/freedesktop/secrets/collection/login”
+2022-01-28T03:29:21.187Z - info: [ui] [AppStore] loading 0 repositories from store
+2022-01-28T03:29:21.383Z - info: [ui] launching: 2.9.6-linux1 (Linux 5.16.2-arch1-1)
+2022-01-28T03:29:21.384Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2022-01-28T03:29:21.585Z - info: [ui] Stats reported.

@@ -1,0 +1,34 @@
+[2022-02-12 20:18:52.751] [exthost] [info] Extension host with pid 107853 started
+[2022-02-12 20:18:52.752] [exthost] [info] Skipping acquiring lock for /home/btr/.config/Code - OSS/User/workspaceStorage/41b63c78397192e129e2ad8f78de1c2c.
+[2022-02-12 20:18:52.838] [exthost] [info] ExtensionService#_doActivateExtension muhammad-sammy.csharp, startup: false, activationEvent: 'onLanguage:csharp'
+[2022-02-12 20:18:52.873] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-12 20:18:52.876] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-12 20:18:52.906] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-02-12 20:18:52.925] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-12 20:18:52.990] [exthost] [info] Eager extensions activated
+[2022-02-12 20:18:53.088] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-12 20:18:53.094] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-12 20:18:54.795] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-12 20:18:54.795] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-12 20:18:54.871] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-12 20:18:54.871] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-12 20:18:57.179] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-12 20:18:57.179] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-12 20:18:57.884] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-12 20:18:57.884] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-12 20:18:58.845] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-12 20:18:58.845] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-12 20:18:59.110] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-12 20:18:59.110] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-12 20:19:00.074] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-12 20:19:00.074] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-12 20:19:00.631] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-12 20:19:00.631] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-12 20:19:01.658] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-12 20:19:01.658] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-12 20:19:02.353] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-12 20:19:02.353] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-12 20:19:03.004] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-12 20:19:03.004] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-12 20:19:04.844] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-02-12 20:19:04.856] [exthost] [info] Extension host with pid 107853 exiting with code 0

@@ -1,0 +1,19 @@
+[2022-02-12 20:14:10.960] [exthost] [info] Extension host with pid 105707 started
+[2022-02-12 20:14:10.960] [exthost] [info] Skipping acquiring lock for /home/btr/.config/Code - OSS/User/workspaceStorage/41b63c78397192e129e2ad8f78de1c2c.
+[2022-02-12 20:14:11.046] [exthost] [info] ExtensionService#_doActivateExtension muhammad-sammy.csharp, startup: false, activationEvent: 'onLanguage:csharp'
+[2022-02-12 20:14:11.170] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-12 20:14:11.172] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-12 20:14:11.243] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-02-12 20:14:11.258] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-12 20:14:11.296] [exthost] [info] Eager extensions activated
+[2022-02-12 20:14:11.333] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-12 20:14:11.338] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-12 20:14:13.090] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-12 20:14:13.090] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-12 20:15:08.966] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-12 20:15:08.966] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: 37
+[2022-02-12 20:16:48.286] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-12 20:16:48.296] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-12 20:16:48.315] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-12 20:17:00.758] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-02-12 20:17:00.790] [exthost] [info] Extension host with pid 105707 exiting with code 0

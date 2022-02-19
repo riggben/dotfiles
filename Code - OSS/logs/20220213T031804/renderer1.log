@@ -1,0 +1,4 @@
+[2022-02-13 03:18:05.921] [renderer1] [info] IExtensionHostStarter.start() took 186 ms.
+[2022-02-13 03:18:06.138] [renderer1] [error] [Extension Host] (node:139302) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-02-13 03:18:08.478] [renderer1] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined

@@ -1,0 +1,15 @@
+[2022-02-13T01:18:52.969Z] Validating found git in: git
+[2022-02-13T01:18:52.981Z] Using git 2.35.1 from git
+[2022-02-13T01:18:53.002Z] > git rev-parse --git-dir [2ms]
+[2022-02-13T01:18:53.006Z] Open repository: /home/btr/UnityProjects/MobileProj1
+[2022-02-13T01:18:53.017Z] > git symbolic-ref --short HEAD [1ms]
+[2022-02-13T01:18:53.023Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main [1ms]
+[2022-02-13T01:18:53.030Z] > git remote --verbose [1ms]
+[2022-02-13T01:18:53.031Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+[2022-02-13T01:18:53.037Z] > git config --get commit.template [1ms]
+[2022-02-13T01:18:53.358Z] > git ls-files --stage -- /home/btr/UnityProjects/MobileProj1/Assets/Scripts/PlayerController.cs [1ms]
+[2022-02-13T01:18:56.695Z] > git symbolic-ref --short HEAD [1ms]
+[2022-02-13T01:18:56.702Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main [2ms]
+[2022-02-13T01:18:56.713Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+[2022-02-13T01:18:56.713Z] > git remote --verbose [1ms]
+[2022-02-13T01:18:56.719Z] > git config --get commit.template [0ms]

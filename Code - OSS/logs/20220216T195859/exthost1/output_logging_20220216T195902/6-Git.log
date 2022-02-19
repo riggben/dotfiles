@@ -1,0 +1,10 @@
+[2022-02-17T00:59:02.477Z] Validating found git in: git
+[2022-02-17T00:59:02.485Z] Using git 2.35.1 from git
+[2022-02-17T00:59:02.503Z] > git rev-parse --git-dir [2ms]
+[2022-02-17T00:59:02.507Z] Open repository: /home/btr/UnityProjects/MobileProj1
+[2022-02-17T00:59:02.520Z] > git symbolic-ref --short HEAD [1ms]
+[2022-02-17T00:59:02.525Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main [2ms]
+[2022-02-17T00:59:02.557Z] > git remote --verbose [24ms]
+[2022-02-17T00:59:02.557Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [27ms]
+[2022-02-17T00:59:02.568Z] > git config --get commit.template [4ms]
+[2022-02-17T00:59:02.846Z] > git ls-files --stage -- /home/btr/UnityProjects/MobileProj1/Assets/Scripts/MenuManager.cs [5ms]

@@ -1,0 +1,6 @@
+[2022-02-16 19:59:00.069] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-02-16 19:59:00.104] [main] [info] ExtensionHostStarterWorker created
+[2022-02-16 19:59:01.659] [main] [info] Starting extension host with pid 319945 (fork() took 9 ms).
+[2022-02-16 19:59:01.660] [main] [info] ExtensionHostStarterWorker.start() took 15 ms.
+[2022-02-16 19:59:04.497] [main] [info] Waiting for extension host with pid 319945 to exit.
+[2022-02-16 19:59:04.501] [main] [info] Extension host with pid 319945 exited with code: 0, signal: null.

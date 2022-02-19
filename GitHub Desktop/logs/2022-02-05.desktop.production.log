@@ -1,0 +1,252 @@
+2022-02-05T21:49:02.352Z - info: [ui] [AppStore] loading 0 repositories from store
+2022-02-05T21:49:02.479Z - info: [ui] launching: 2.9.6-linux1 (Linux 5.16.5-arch1-1)
+2022-02-05T21:49:02.480Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2022-02-05T21:49:02.660Z - info: [ui] Stats reported.
+2022-02-05T21:49:18.498Z - info: [ui] [AppStore] adding repository at /home/btr/UnityProjects/Station-17-Project to store
+2022-02-05T21:49:19.962Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.368s)
+2022-02-05T21:49:19.963Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.429s)
+2022-02-05T21:49:27.567Z - error: [ui] `git -c credential.helper= fetch --progress --prune origin` exited with an unexpected code: 128.
+stderr:
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/ByteSz/Station-17-Project/'
+
+(The error was parsed as 3: Authentication failed. Some common reasons include:
+
+- You are not logged in to your account: see File > Options.
+- You may need to log out and log back in to refresh your token.
+- You do not have permission to access this repository.
+- The repository is archived on GitHub. Check the repository settings to confirm you are still permitted to push commits.
+- If you use SSH authentication, check that your key is added to the ssh-agent and associated with your account.
+- If you use SSH authentication, ensure the host key verification passes for your repository hosting service.
+- If you used username / password authentication, you might need to use a Personal Access Token instead of your account password. Check the documentation of your repository hosting service.)
+2022-02-05T21:49:28.968Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.336s)
+2022-02-05T21:49:40.708Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.269s)
+2022-02-05T21:49:51.102Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.306s)
+2022-02-05T21:49:59.257Z - info: [ui] storing generic credentials for 'github.com' and 'riggben@gmail.com'
+2022-02-05T21:49:59.311Z - error: [ui] Error saving generic git credentials: riggben@gmail.com@github.com
+Error: Object does not exist at path “/org/freedesktop/secrets/collection/login”
+2022-02-05T21:50:00.274Z - error: [ui] `git -c credential.helper= fetch --progress --prune origin` exited with an unexpected code: 128.
+stderr:
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/ByteSz/Station-17-Project/'
+
+(The error was parsed as 3: Authentication failed. Some common reasons include:
+
+- You are not logged in to your account: see File > Options.
+- You may need to log out and log back in to refresh your token.
+- You do not have permission to access this repository.
+- The repository is archived on GitHub. Check the repository settings to confirm you are still permitted to push commits.
+- If you use SSH authentication, check that your key is added to the ssh-agent and associated with your account.
+- If you use SSH authentication, ensure the host key verification passes for your repository hosting service.
+- If you used username / password authentication, you might need to use a Personal Access Token instead of your account password. Check the documentation of your repository hosting service.)
+2022-02-05T21:50:01.599Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.285s)
+2022-02-05T21:50:15.701Z - info: [ui] storing generic credentials for 'github.com' and 'riggben@gmail.com'
+2022-02-05T21:50:15.762Z - error: [ui] Error saving generic git credentials: riggben@gmail.com@github.com
+Error: Object does not exist at path “/org/freedesktop/secrets/collection/login”
+2022-02-05T21:50:16.722Z - error: [ui] `git -c credential.helper= fetch --progress --prune origin` exited with an unexpected code: 128.
+stderr:
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/ByteSz/Station-17-Project/'
+
+(The error was parsed as 3: Authentication failed. Some common reasons include:
+
+- You are not logged in to your account: see File > Options.
+- You may need to log out and log back in to refresh your token.
+- You do not have permission to access this repository.
+- The repository is archived on GitHub. Check the repository settings to confirm you are still permitted to push commits.
+- If you use SSH authentication, check that your key is added to the ssh-agent and associated with your account.
+- If you use SSH authentication, ensure the host key verification passes for your repository hosting service.
+- If you used username / password authentication, you might need to use a Personal Access Token instead of your account password. Check the documentation of your repository hosting service.)
+2022-02-05T21:50:18.052Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.304s)
+2022-02-05T21:51:03.483Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.281s)
+2022-02-05T21:51:31.323Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.262s)
+2022-02-05T21:51:31.340Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.284s)
+2022-02-05T21:51:32.272Z - error: [ui] `git -c credential.helper= fetch --progress --prune origin` exited with an unexpected code: 128.
+stderr:
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/ByteSz/Station-17-Project/'
+
+(The error was parsed as 3: Authentication failed. Some common reasons include:
+
+- You are not logged in to your account: see File > Options.
+- You may need to log out and log back in to refresh your token.
+- You do not have permission to access this repository.
+- The repository is archived on GitHub. Check the repository settings to confirm you are still permitted to push commits.
+- If you use SSH authentication, check that your key is added to the ssh-agent and associated with your account.
+- If you use SSH authentication, ensure the host key verification passes for your repository hosting service.
+- If you used username / password authentication, you might need to use a Personal Access Token instead of your account password. Check the documentation of your repository hosting service.)
+2022-02-05T21:51:41.171Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 2.3s of which 8.9s paused, total 11.1s
+2022-02-05T21:51:42.509Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.332s)
+2022-02-05T21:51:49.873Z - info: [ui] storing generic credentials for 'github.com' and 'riggben@gmail.com'
+2022-02-05T21:51:49.918Z - error: [ui] Error saving generic git credentials: riggben@gmail.com@github.com
+Error: Object does not exist at path “/org/freedesktop/secrets/collection/login”
+2022-02-05T21:51:50.872Z - error: [ui] `git -c credential.helper= fetch --progress --prune origin` exited with an unexpected code: 128.
+stderr:
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/ByteSz/Station-17-Project/'
+
+(The error was parsed as 3: Authentication failed. Some common reasons include:
+
+- You are not logged in to your account: see File > Options.
+- You may need to log out and log back in to refresh your token.
+- You do not have permission to access this repository.
+- The repository is archived on GitHub. Check the repository settings to confirm you are still permitted to push commits.
+- If you use SSH authentication, check that your key is added to the ssh-agent and associated with your account.
+- If you use SSH authentication, ensure the host key verification passes for your repository hosting service.
+- If you used username / password authentication, you might need to use a Personal Access Token instead of your account password. Check the documentation of your repository hosting service.)
+2022-02-05T21:51:52.159Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.269s)
+2022-02-05T21:52:48.519Z - info: [ui] [AppStore] loading 1 repositories from store
+2022-02-05T21:52:48.817Z - info: [ui] launching: 2.9.6-linux1 (Linux 5.16.5-arch1-1)
+2022-02-05T21:52:48.817Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2022-02-05T21:52:49.795Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.272s)
+2022-02-05T21:52:50.010Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.320s)
+2022-02-05T21:52:56.556Z - error: [ui] `git -c credential.helper= fetch --progress --prune origin` exited with an unexpected code: 128.
+stderr:
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/ByteSz/Station-17-Project/'
+
+(The error was parsed as 3: Authentication failed. Some common reasons include:
+
+- You are not logged in to your account: see File > Options.
+- You may need to log out and log back in to refresh your token.
+- You do not have permission to access this repository.
+- The repository is archived on GitHub. Check the repository settings to confirm you are still permitted to push commits.
+- If you use SSH authentication, check that your key is added to the ssh-agent and associated with your account.
+- If you use SSH authentication, ensure the host key verification passes for your repository hosting service.
+- If you used username / password authentication, you might need to use a Personal Access Token instead of your account password. Check the documentation of your repository hosting service.)
+2022-02-05T21:52:57.928Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.307s)
+2022-02-05T21:53:30.214Z - info: [ui] [AppStore] loading 1 repositories from store
+2022-02-05T21:53:30.404Z - info: [ui] launching: 2.9.6-linux1 (Linux 5.16.5-arch1-1)
+2022-02-05T21:53:30.405Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2022-02-05T21:53:31.505Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.282s)
+2022-02-05T21:53:31.736Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.298s)
+2022-02-05T21:53:35.142Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.325s)
+2022-02-05T21:53:35.896Z - error: [ui] `git -c credential.helper= fetch --progress --prune origin` exited with an unexpected code: 128.
+stderr:
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/ByteSz/Station-17-Project/'
+
+(The error was parsed as 3: Authentication failed. Some common reasons include:
+
+- You are not logged in to your account: see File > Options.
+- You may need to log out and log back in to refresh your token.
+- You do not have permission to access this repository.
+- The repository is archived on GitHub. Check the repository settings to confirm you are still permitted to push commits.
+- If you use SSH authentication, check that your key is added to the ssh-agent and associated with your account.
+- If you use SSH authentication, ensure the host key verification passes for your repository hosting service.
+- If you used username / password authentication, you might need to use a Personal Access Token instead of your account password. Check the documentation of your repository hosting service.)
+2022-02-05T21:53:37.226Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.314s)
+2022-02-05T21:53:50.073Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.266s)
+2022-02-05T21:53:50.929Z - info: [ui] storing generic credentials for 'github.com' and 'riggben@gmail.com'
+2022-02-05T21:53:50.955Z - error: [ui] Error saving generic git credentials: riggben@gmail.com@github.com
+Error: Object does not exist at path “/org/freedesktop/secrets/collection/login”
+2022-02-05T21:53:51.925Z - error: [ui] `git -c credential.helper= fetch --progress --prune origin` exited with an unexpected code: 128.
+stderr:
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/ByteSz/Station-17-Project/'
+
+(The error was parsed as 3: Authentication failed. Some common reasons include:
+
+- You are not logged in to your account: see File > Options.
+- You may need to log out and log back in to refresh your token.
+- You do not have permission to access this repository.
+- The repository is archived on GitHub. Check the repository settings to confirm you are still permitted to push commits.
+- If you use SSH authentication, check that your key is added to the ssh-agent and associated with your account.
+- If you use SSH authentication, ensure the host key verification passes for your repository hosting service.
+- If you used username / password authentication, you might need to use a Personal Access Token instead of your account password. Check the documentation of your repository hosting service.)
+2022-02-05T21:53:53.250Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.304s)
+2022-02-05T21:56:19.565Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.291s)
+2022-02-05T22:03:11.564Z - info: [ui] [AppStore] loading 1 repositories from store
+2022-02-05T22:03:11.711Z - info: [ui] launching: 2.9.6-linux1 (Linux 5.16.5-arch1-1)
+2022-02-05T22:03:11.711Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2022-02-05T22:03:13.118Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.333s)
+2022-02-05T22:03:13.118Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.545s)
+2022-02-05T22:03:22.352Z - error: [ui] `git -c credential.helper= fetch --progress --prune origin` exited with an unexpected code: 128.
+stderr:
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/ByteSz/Station-17-Project/'
+
+(The error was parsed as 3: Authentication failed. Some common reasons include:
+
+- You are not logged in to your account: see File > Options.
+- You may need to log out and log back in to refresh your token.
+- You do not have permission to access this repository.
+- The repository is archived on GitHub. Check the repository settings to confirm you are still permitted to push commits.
+- If you use SSH authentication, check that your key is added to the ssh-agent and associated with your account.
+- If you use SSH authentication, ensure the host key verification passes for your repository hosting service.
+- If you used username / password authentication, you might need to use a Personal Access Token instead of your account password. Check the documentation of your repository hosting service.)
+2022-02-05T22:03:23.769Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.326s)
+2022-02-05T22:04:02.196Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.260s)
+2022-02-05T22:09:09.569Z - info: [ui] [AppStore] loading 1 repositories from store
+2022-02-05T22:09:09.804Z - info: [ui] launching: 2.9.6-linux1 (Linux 5.16.5-arch1-1)
+2022-02-05T22:09:09.804Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2022-02-05T22:09:10.843Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.267s)
+2022-02-05T22:09:11.042Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.325s)
+2022-02-05T22:09:14.736Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.291s)
+2022-02-05T22:09:18.701Z - error: [ui] `git -c credential.helper= fetch --progress --prune origin` exited with an unexpected code: 128.
+stderr:
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/ByteSz/Station-17-Project/'
+
+(The error was parsed as 3: Authentication failed. Some common reasons include:
+
+- You are not logged in to your account: see File > Options.
+- You may need to log out and log back in to refresh your token.
+- You do not have permission to access this repository.
+- The repository is archived on GitHub. Check the repository settings to confirm you are still permitted to push commits.
+- If you use SSH authentication, check that your key is added to the ssh-agent and associated with your account.
+- If you use SSH authentication, ensure the host key verification passes for your repository hosting service.
+- If you used username / password authentication, you might need to use a Personal Access Token instead of your account password. Check the documentation of your repository hosting service.)
+2022-02-05T22:09:20.037Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.277s)
+2022-02-05T22:09:24.387Z - info: [ui] storing generic credentials for 'github.com' and 'riggben'
+2022-02-05T22:09:24.422Z - error: [ui] Error saving generic git credentials: riggben@github.com
+Error: Object does not exist at path “/org/freedesktop/secrets/collection/login”
+2022-02-05T22:09:25.396Z - error: [ui] `git -c credential.helper= fetch --progress --prune origin` exited with an unexpected code: 128.
+stderr:
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/ByteSz/Station-17-Project/'
+
+(The error was parsed as 3: Authentication failed. Some common reasons include:
+
+- You are not logged in to your account: see File > Options.
+- You may need to log out and log back in to refresh your token.
+- You do not have permission to access this repository.
+- The repository is archived on GitHub. Check the repository settings to confirm you are still permitted to push commits.
+- If you use SSH authentication, check that your key is added to the ssh-agent and associated with your account.
+- If you use SSH authentication, ensure the host key verification passes for your repository hosting service.
+- If you used username / password authentication, you might need to use a Personal Access Token instead of your account password. Check the documentation of your repository hosting service.)
+2022-02-05T22:09:26.723Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.297s)
+2022-02-05T22:11:42.666Z - info: [ui] [AppStore] loading 1 repositories from store
+2022-02-05T22:11:43.078Z - info: [ui] launching: 2.9.6-linux1 (Linux 5.16.5-arch1-1)
+2022-02-05T22:11:43.079Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2022-02-05T22:11:46.805Z - error: [ui] `git -c credential.helper= fetch --progress --prune origin` exited with an unexpected code: 128.
+stderr:
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/ByteSz/Station-17-Project/'
+
+(The error was parsed as 3: Authentication failed. Some common reasons include:
+
+- You are not logged in to your account: see File > Options.
+- You may need to log out and log back in to refresh your token.
+- You do not have permission to access this repository.
+- The repository is archived on GitHub. Check the repository settings to confirm you are still permitted to push commits.
+- If you use SSH authentication, check that your key is added to the ssh-agent and associated with your account.
+- If you use SSH authentication, ensure the host key verification passes for your repository hosting service.
+- If you used username / password authentication, you might need to use a Personal Access Token instead of your account password. Check the documentation of your repository hosting service.)
+2022-02-05T22:11:52.865Z - info: [ui] storing generic credentials for 'github.com' and 'riggben'
+2022-02-05T22:11:52.895Z - error: [ui] Error saving generic git credentials: riggben@github.com
+Error: Object does not exist at path “/org/freedesktop/secrets/collection/login”
+2022-02-05T22:11:53.890Z - error: [ui] `git -c credential.helper= fetch --progress --prune origin` exited with an unexpected code: 128.
+stderr:
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/ByteSz/Station-17-Project/'
+
+(The error was parsed as 3: Authentication failed. Some common reasons include:
+
+- You are not logged in to your account: see File > Options.
+- You may need to log out and log back in to refresh your token.
+- You do not have permission to access this repository.
+- The repository is archived on GitHub. Check the repository settings to confirm you are still permitted to push commits.
+- If you use SSH authentication, check that your key is added to the ssh-agent and associated with your account.
+- If you use SSH authentication, ensure the host key verification passes for your repository hosting service.
+- If you used username / password authentication, you might need to use a Personal Access Token instead of your account password. Check the documentation of your repository hosting service.)

@@ -1,0 +1,12 @@
+# GIMP gimp-airbrush-tool options
+
+(foreground (color-rgb 0.72509960159362552 0 0))
+(background (color-rgb 0.88844621513944222 0.88844621513944222 0.88844621513944222))
+(brush "2. Hardness 050")
+(dynamics "Ben's")
+(gradient "FG to BG (RGB)")
+(palette "Color History")
+(brush-size 2)
+(dynamics-expanded yes)
+
+# end of gimp-airbrush-tool options

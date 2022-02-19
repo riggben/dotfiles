@@ -1,0 +1,138 @@
+[2022-02-16 14:50:16.516] [exthost] [info] Extension host with pid 299848 started
+[2022-02-16 14:50:16.516] [exthost] [info] Skipping acquiring lock for /home/btr/.config/Code - OSS/User/workspaceStorage/41b63c78397192e129e2ad8f78de1c2c.
+[2022-02-16 14:50:16.673] [exthost] [info] ExtensionService#_doActivateExtension muhammad-sammy.csharp, startup: false, activationEvent: 'onLanguage:csharp'
+[2022-02-16 14:50:16.709] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-16 14:50:16.712] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-16 14:50:16.740] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-02-16 14:50:16.759] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-16 14:50:16.795] [exthost] [info] Eager extensions activated
+[2022-02-16 14:50:16.836] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-16 14:50:16.841] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-16 14:50:18.516] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:50:18.516] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:50:21.476] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:50:21.476] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:50:22.051] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:50:22.051] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:50:23.725] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:50:23.725] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:50:25.759] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:50:25.759] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:50:27.127] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:50:27.127] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:50:27.990] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:50:27.990] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:50:28.744] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:50:28.744] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:50:32.875] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:50:32.875] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:50:33.425] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:50:33.425] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:50:34.049] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:50:34.049] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:50:35.960] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:50:35.960] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:50:37.724] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:50:37.724] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:50:38.427] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:50:38.427] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:50:42.870] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:50:42.870] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:50:44.572] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:50:44.572] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:50:45.980] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:50:45.980] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:50:53.272] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:50:53.272] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:50:53.849] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:50:53.849] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:50:54.781] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:50:54.781] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:50:56.141] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:50:56.141] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:50:58.315] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:50:58.315] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:50:59.577] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:50:59.577] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:51:00.647] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:51:00.647] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:51:00.729] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:51:00.730] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/btr/.vscode-oss/extensions/muhammad-sammy.csharp-1.24.0/dist/extension.js:2:558418)
+	at Generator.next (<anonymous>)
+	at s (/home/btr/.vscode-oss/extensions/muhammad-sammy.csharp-1.24.0/dist/extension.js:2:552036)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-02-16 14:51:00.845] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:51:00.845] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:51:01.363] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:51:01.363] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/btr/.vscode-oss/extensions/muhammad-sammy.csharp-1.24.0/dist/extension.js:2:558418)
+	at Generator.next (<anonymous>)
+	at s (/home/btr/.vscode-oss/extensions/muhammad-sammy.csharp-1.24.0/dist/extension.js:2:552036)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-02-16 14:51:01.408] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:51:01.408] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/btr/.vscode-oss/extensions/muhammad-sammy.csharp-1.24.0/dist/extension.js:2:558418)
+	at Generator.next (<anonymous>)
+	at s (/home/btr/.vscode-oss/extensions/muhammad-sammy.csharp-1.24.0/dist/extension.js:2:552036)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-02-16 14:51:02.360] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:51:02.360] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/btr/.vscode-oss/extensions/muhammad-sammy.csharp-1.24.0/dist/extension.js:2:558418)
+	at Generator.next (<anonymous>)
+	at s (/home/btr/.vscode-oss/extensions/muhammad-sammy.csharp-1.24.0/dist/extension.js:2:552036)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-02-16 14:51:02.371] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:51:02.371] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/btr/.vscode-oss/extensions/muhammad-sammy.csharp-1.24.0/dist/extension.js:2:558418)
+	at Generator.next (<anonymous>)
+	at s (/home/btr/.vscode-oss/extensions/muhammad-sammy.csharp-1.24.0/dist/extension.js:2:552036)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-02-16 14:51:02.379] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:51:02.379] [exthost] [error] Error: busy
+	at f.<anonymous> (/home/btr/.vscode-oss/extensions/muhammad-sammy.csharp-1.24.0/dist/extension.js:2:558418)
+	at Generator.next (<anonymous>)
+	at s (/home/btr/.vscode-oss/extensions/muhammad-sammy.csharp-1.24.0/dist/extension.js:2:552036)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-02-16 14:51:04.206] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:51:04.206] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:51:07.846] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:51:07.846] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:51:08.719] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:51:08.719] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:51:09.537] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:51:09.537] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:51:10.203] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:51:10.203] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:51:10.663] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:51:10.663] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:51:11.567] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:51:11.567] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:51:12.146] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:51:12.146] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:51:13.158] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:51:13.158] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:51:14.083] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:51:14.083] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:51:15.430] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:51:15.430] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:51:16.029] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:51:16.029] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:51:16.553] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:51:16.553] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:51:19.554] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:51:19.555] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:51:21.906] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:51:21.906] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:51:23.428] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:51:23.428] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:51:23.708] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:51:23.708] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:51:27.802] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:51:27.802] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:51:32.998] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:51:32.998] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:51:33.225] [exthost] [error] [muhammad-sammy.csharp] provider FAILED
+[2022-02-16 14:51:33.225] [exthost] [error] Problem invoking 'GetCodeActions' on OmniSharp server: Error: Request /v2/getcodeactions cancelled, id: undefined
+[2022-02-16 14:51:43.198] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-02-16 14:51:43.210] [exthost] [info] Extension host with pid 299848 exiting with code 0

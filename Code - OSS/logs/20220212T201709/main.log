@@ -1,0 +1,5 @@
+[2022-02-12 20:17:09.616] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-02-12 20:17:09.644] [main] [info] ExtensionHostStarterWorker created
+[2022-02-12 20:17:11.146] [main] [info] Starting extension host with pid 106624 (fork() took 40 ms).
+[2022-02-12 20:17:11.147] [main] [info] ExtensionHostStarterWorker.start() took 41 ms.
+[2022-02-12 20:17:37.602] [main] [info] Extension host with pid 106624 exited with code: 0, signal: null.

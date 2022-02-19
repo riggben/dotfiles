@@ -1,0 +1,9 @@
+[Bookmarks]
+[Recent]
+/home/btr/Documents/Blender/MobileCasualProj.1/
+/home/btr/UnityProjects/MobileProj1/Assets/Models/
+/home/btr/UnityProjects/MobileProj1/Assets/Textures/
+/home/btr/Documents/Blender/
+/home/btr/Documents/Blender/Studio2/
+/home/btr/Documents/Blender/Plugins/
+/home/btr/Blender/

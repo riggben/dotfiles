@@ -1,0 +1,12 @@
+[2022-02-16 19:59:02.280] [exthost] [info] Extension host with pid 319945 started
+[2022-02-16 19:59:02.280] [exthost] [info] Skipping acquiring lock for /home/btr/.config/Code - OSS/User/workspaceStorage/41b63c78397192e129e2ad8f78de1c2c.
+[2022-02-16 19:59:02.357] [exthost] [info] ExtensionService#_doActivateExtension muhammad-sammy.csharp, startup: false, activationEvent: 'onLanguage:csharp'
+[2022-02-16 19:59:02.389] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-16 19:59:02.391] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-16 19:59:02.429] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-02-16 19:59:02.445] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-16 19:59:02.492] [exthost] [info] Eager extensions activated
+[2022-02-16 19:59:02.548] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-16 19:59:02.554] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-16 19:59:04.474] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-02-16 19:59:04.483] [exthost] [info] Extension host with pid 319945 exiting with code 0

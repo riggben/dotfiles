@@ -1,0 +1,11 @@
+2022-02-12T00:38:31.862Z - info: [ui] [AppStore] loading 1 repositories from store
+2022-02-12T00:38:32.383Z - info: [ui] launching: 2.9.6-linux1 (Linux 5.16.8-arch1-1)
+2022-02-12T00:38:32.383Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2022-02-12T00:38:32.549Z - info: [ui] Stats reported.
+2022-02-12T00:39:21.792Z - info: [ui] No submodules found. Skipping "git submodule status"
+2022-02-12T00:40:51.570Z - info: [ui] [AppStore] loading 1 repositories from store
+2022-02-12T00:40:51.910Z - info: [ui] launching: 2.9.6-linux1 (Linux 5.16.8-arch1-1)
+2022-02-12T00:40:51.911Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2022-02-12T01:14:25.199Z - info: [ui] [AppStore] loading 1 repositories from store
+2022-02-12T01:14:25.491Z - info: [ui] launching: 2.9.6-linux1 (Linux 5.16.8-arch1-1)
+2022-02-12T01:14:25.491Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'

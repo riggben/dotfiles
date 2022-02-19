@@ -1,0 +1,10 @@
+[2022-02-13T01:17:47.334Z] Validating found git in: git
+[2022-02-13T01:17:47.348Z] Using git  from git
+[2022-02-13T01:17:47.387Z] > git rev-parse --git-dir [1ms]
+[2022-02-13T01:17:47.394Z] Open repository: /home/btr/UnityProjects/MobileProj1
+[2022-02-13T01:17:47.431Z] > git symbolic-ref --short HEAD [1ms]
+[2022-02-13T01:17:47.452Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main [15ms]
+[2022-02-13T01:17:47.469Z] > git remote --verbose [6ms]
+[2022-02-13T01:17:47.469Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [11ms]
+[2022-02-13T01:17:47.479Z] > git config --get commit.template [1ms]
+[2022-02-13T01:17:47.733Z] > git ls-files --stage -- /home/btr/UnityProjects/MobileProj1/Assets/Scripts/PlayerController.cs [4ms]
